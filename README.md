@@ -10,4 +10,4 @@ This Website will create a password generator with special keys added in as well
 
 ## URL
 
-Deployed URL link: 
+Deployed URL link: https://omousa98.github.io/Password-Generator/
